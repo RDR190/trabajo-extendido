@@ -1,0 +1,7 @@
+{
+  "name": "trabajo extendido",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
